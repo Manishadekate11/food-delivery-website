@@ -13,7 +13,7 @@ Built as a hands-on project to learn React fundamentals, state management (Conte
 
 ## 🌐 Live Demo
 
-🔗 [https://manisha-food-delivery-website.netlify.app/](#) <!-- Replace # with your deployed Vercel/Netlify link -->
+🔗 https://manisha-food-delivery-website.netlify.app/(#) <!-- Replace # with your deployed Vercel/Netlify link -->
 
 ---
 
